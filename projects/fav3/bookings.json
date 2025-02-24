@@ -1,0 +1,335 @@
+{
+    "status": 0,
+    "statusDescription": "OK",
+    "result": {
+      "pagination": {
+        "totalRecords": 18,
+        "totalPages": 4,
+        "currentPage": 1,
+        "perPage": 5
+      },
+      "data": {
+        "CONDO": {
+          "featuredAgentType": "CONDO",
+          "objectType": "propertyId",
+          "data": [
+            {
+              "objectId": "836",
+              "objectName": "Aspen Loft",
+              "displayType": "Condominiums",
+              "fullDisplayType": "Condo | Condominiums",
+              "faTypeLabel": "Condo",
+              "listingType": "SALE",
+              "noOfAvailableSlots": {
+                "RENT": 0,
+                "SALE": 0
+              },
+              "noOfSearches": 0,
+              "noOfActiveAgents": 2,
+              "noOfActiveListings": 3,
+              "isNewLaunch": false,
+              "propertyName": "Aspen Loft",
+              "coverImageUrl": "https://sg1-cdn-integration.pgimgs.com/projectnet-project/5523/ZPPHO.96890286.R550X550.jpg",
+              "propertyType": "CONDO",
+              "unitTypes": [
+                "CONDO"
+              ],
+              "bookings": [
+                {
+                  "id": 154963,
+                  "startDate": "2025-02-21T19:57:28+08:00",
+                  "endDate": "2025-03-22T19:57:28+08:00",
+                  "statusCode": "ACT",
+                  "creditCharged": 0,
+                  "isExpiring": false,
+                  "listingType": "SALE",
+                  "isAutoRenewal": false,
+                  "listingId": 25339712,
+                  "isLegacy": false,
+                  "autoRenewalCharge": 9,
+                  "proratedDiscount": 0
+                }
+              ],
+              "creditCharge": {
+                "RENT": {
+                  "30d": 15,
+                  "90d": 46,
+                  "180d": 90,
+                  "full": 2,
+                  "listingType": "RENT",
+                  "isNewLaunch": false
+                },
+                "SALE": {
+                  "30d": 9,
+                  "90d": 28,
+                  "180d": 54,
+                  "full": 8,
+                  "listingType": "SALE",
+                  "isNewLaunch": false
+                }
+              },
+              "bundleDiscount": 15,
+              "changeFee": {
+                "changeFee0to7": 15,
+                "changeFee8to14": 15,
+                "changeFeeLast3Days": 15,
+                "changeFeeRest": 15
+              }
+            }
+          ]
+        },
+        "R": {
+          "featuredAgentType": "R",
+          "objectType": "districtCode",
+          "data": [
+            {
+              "objectId": "D09",
+              "objectName": "D09 - Orchard / River Valley",
+              "displayType": "Retail District",
+              "fullDisplayType": "Commercial District | Retail District",
+              "faTypeLabel": "Retail District",
+              "listingType": "RENT",
+              "noOfAvailableSlots": {
+                "RENT": 6,
+                "SALE": 7
+              },
+              "districtName": "D09 - Orchard / River Valley",
+              "regionCode": "B",
+              "regionName": "Orchard / Holland (D09-10)",
+              "coverImageUrl": "https://cdn-integration.pgimgs.com/sg/agentmonetization/images/districts/D09.jpg",
+              "noOfActiveAgents": 304,
+              "noOfActiveListings": 552,
+              "bookings": [
+                {
+                  "id": 154954,
+                  "startDate": "2025-02-21T12:45:26+08:00",
+                  "endDate": "2025-03-22T12:45:26+08:00",
+                  "statusCode": "ACT",
+                  "creditCharged": 6,
+                  "isExpiring": false,
+                  "listingType": "RENT",
+                  "isAutoRenewal": false,
+                  "listingId": null,
+                  "isLegacy": false,
+                  "autoRenewalCharge": 6,
+                  "proratedDiscount": 4.27
+                }
+              ],
+              "creditCharge": {
+                "RENT": {
+                  "30d": 6,
+                  "90d": 19,
+                  "180d": 37,
+                  "full": 6,
+                  "listingType": "RENT"
+                },
+                "SALE": {
+                  "30d": 2,
+                  "90d": 7,
+                  "180d": 13,
+                  "full": 6,
+                  "listingType": "SALE"
+                }
+              },
+              "bundleDiscount": 15,
+              "changeFee": {
+                "changeFee0to7": 15,
+                "changeFee8to14": 15,
+                "changeFeeLast3Days": 15,
+                "changeFeeRest": 15
+              }
+            }
+          ]
+        },
+        "O": {
+          "featuredAgentType": "O",
+          "objectType": "districtCode",
+          "data": [
+            {
+              "objectId": "D01",
+              "objectName": "D01 - Boat Quay / Raffles Place / Marina",
+              "displayType": "Office District",
+              "fullDisplayType": "Commercial District | Office District",
+              "faTypeLabel": "Office District",
+              "listingType": "RENT",
+              "noOfAvailableSlots": {
+                "RENT": 6,
+                "SALE": 7
+              },
+              "districtName": "D01 - Boat Quay / Raffles Place / Marina",
+              "regionCode": "A",
+              "regionName": "City & South West (D01-08)",
+              "coverImageUrl": "https://cdn-integration.pgimgs.com/sg/agentmonetization/images/districts/D01.jpg",
+              "noOfActiveAgents": 756,
+              "noOfActiveListings": 2027,
+              "bookings": [
+                {
+                  "id": 154955,
+                  "startDate": "2025-02-21T12:47:04+08:00",
+                  "endDate": "2025-03-22T12:47:04+08:00",
+                  "statusCode": "ACT",
+                  "creditCharged": 3,
+                  "isExpiring": false,
+                  "listingType": "RENT",
+                  "isAutoRenewal": true,
+                  "listingId": null,
+                  "isLegacy": false,
+                  "autoRenewalCharge": 3,
+                  "proratedDiscount": 2.14
+                }
+              ],
+              "creditCharge": {
+                "RENT": {
+                  "30d": 3,
+                  "90d": 10,
+                  "180d": 19,
+                  "full": 6,
+                  "listingType": "RENT"
+                },
+                "SALE": {
+                  "30d": 6,
+                  "90d": 19,
+                  "180d": 37,
+                  "full": 6,
+                  "listingType": "SALE"
+                }
+              },
+              "bundleDiscount": 15,
+              "changeFee": {
+                "changeFee0to7": 15,
+                "changeFee8to14": 15,
+                "changeFeeLast3Days": 0,
+                "changeFeeRest": 15
+              }
+            }
+          ]
+        },
+        "I": {
+          "featuredAgentType": "I",
+          "objectType": "districtCode",
+          "data": [
+            {
+              "objectId": "D27",
+              "objectName": "D27 - Sembawang / Yishun",
+              "displayType": "Industrial District",
+              "fullDisplayType": "Commercial District | Industrial District",
+              "faTypeLabel": "Industrial District",
+              "listingType": "SALE",
+              "noOfAvailableSlots": {
+                "RENT": 7,
+                "SALE": 6
+              },
+              "districtName": "D27 - Sembawang / Yishun",
+              "regionCode": "I",
+              "regionName": "North (D25-28)",
+              "coverImageUrl": "https://cdn-integration.pgimgs.com/sg/agentmonetization/images/districts/D27.jpg",
+              "noOfActiveAgents": 314,
+              "noOfActiveListings": 621,
+              "bookings": [
+                {
+                  "id": 154956,
+                  "startDate": "2025-02-21T12:49:03+08:00",
+                  "endDate": "2025-03-22T12:49:03+08:00",
+                  "statusCode": "ACT",
+                  "creditCharged": 5,
+                  "isExpiring": false,
+                  "listingType": "SALE",
+                  "isAutoRenewal": false,
+                  "listingId": null,
+                  "isLegacy": false,
+                  "autoRenewalCharge": 5,
+                  "proratedDiscount": 3.56
+                }
+              ],
+              "creditCharge": {
+                "RENT": {
+                  "30d": 6,
+                  "90d": 19,
+                  "180d": 37,
+                  "full": 6,
+                  "listingType": "RENT"
+                },
+                "SALE": {
+                  "30d": 5,
+                  "90d": 16,
+                  "180d": 31,
+                  "full": 6,
+                  "listingType": "SALE"
+                }
+              },
+              "bundleDiscount": 15,
+              "changeFee": {
+                "changeFee0to7": 15,
+                "changeFee8to14": 15,
+                "changeFeeLast3Days": 15,
+                "changeFeeRest": 15
+              }
+            }
+          ]
+        },
+        "LDFA": {
+          "featuredAgentType": "LDFA",
+          "objectType": "districtCode",
+          "data": [
+            {
+              "objectId": "D19",
+              "objectName": "D19 - Hougang / Punggol / Sengkang",
+              "displayType": "Landed District",
+              "fullDisplayType": "Landed District",
+              "faTypeLabel": "Landed District",
+              "listingType": "SALE",
+              "noOfAvailableSlots": {
+                "RENT": 7,
+                "SALE": 6
+              },
+              "districtName": "D19 - Hougang / Punggol / Sengkang",
+              "regionCode": "G",
+              "regionName": "Serangoon / Thomson (D19-20)",
+              "coverImageUrl": "https://cdn-integration.pgimgs.com/sg/agentmonetization/images/districts/D19.jpg",
+              "noOfActiveAgents": 677,
+              "noOfActiveListings": 1185,
+              "bookings": [
+                {
+                  "id": 154957,
+                  "startDate": "2025-02-21T12:49:54+08:00",
+                  "endDate": "2025-03-22T12:49:54+08:00",
+                  "statusCode": "ACT",
+                  "creditCharged": 11,
+                  "isExpiring": false,
+                  "listingType": "SALE",
+                  "isAutoRenewal": false,
+                  "listingId": null,
+                  "isLegacy": false,
+                  "autoRenewalCharge": 11,
+                  "proratedDiscount": 7.83
+                }
+              ],
+              "creditCharge": {
+                "RENT": {
+                  "30d": 11,
+                  "90d": 33,
+                  "180d": 65,
+                  "full": 13,
+                  "listingType": "RENT"
+                },
+                "SALE": {
+                  "30d": 11,
+                  "90d": 33,
+                  "180d": 65,
+                  "full": 13,
+                  "listingType": "SALE"
+                }
+              },
+              "bundleDiscount": 15,
+              "changeFee": {
+                "changeFee0to7": 15,
+                "changeFee8to14": 15,
+                "changeFeeLast3Days": 15,
+                "changeFeeRest": 15
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
