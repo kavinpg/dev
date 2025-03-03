@@ -75,6 +75,132 @@
                 "changeFeeLast3Days": 15,
                 "changeFeeRest": 15
               }
+            },
+            {
+              "objectId": "836",
+              "objectName": "Aspen Loft 3d",
+              "displayType": "Condominiums",
+              "fullDisplayType": "Condo | Condominiums",
+              "faTypeLabel": "Condo",
+              "listingType": "SALE",
+              "noOfAvailableSlots": {
+                "RENT": 0,
+                "SALE": 0
+              },
+              "noOfSearches": 0,
+              "noOfActiveAgents": 2,
+              "noOfActiveListings": 3,
+              "isNewLaunch": false,
+              "propertyName": "Aspen Loft",
+              "coverImageUrl": "https://sg1-cdn-integration.pgimgs.com/projectnet-project/5523/ZPPHO.96890286.R550X550.jpg",
+              "propertyType": "CONDO",
+              "unitTypes": [
+                "CONDO"
+              ],
+              "bookings": [
+                {
+                  "id": 154963,
+                  "startDate": "2025-02-21T19:57:28+08:00",
+                  "endDate": "2025-03-06T19:57:28+08:00",
+                  "statusCode": "ACT",
+                  "creditCharged": 0,
+                  "isExpiring": false,
+                  "listingType": "SALE",
+                  "isAutoRenewal": false,
+                  "listingId": 25339712,
+                  "isLegacy": false,
+                  "autoRenewalCharge": 9,
+                  "proratedDiscount": 0
+                }
+              ],
+              "creditCharge": {
+                "RENT": {
+                  "30d": 15,
+                  "90d": 46,
+                  "180d": 90,
+                  "full": 2,
+                  "listingType": "RENT",
+                  "isNewLaunch": false
+                },
+                "SALE": {
+                  "30d": 9,
+                  "90d": 28,
+                  "180d": 54,
+                  "full": 8,
+                  "listingType": "SALE",
+                  "isNewLaunch": false
+                }
+              },
+              "bundleDiscount": 15,
+              "changeFee": {
+                "changeFee0to7": 15,
+                "changeFee8to14": 15,
+                "changeFeeLast3Days": 15,
+                "changeFeeRest": 15
+              }
+            },
+            {
+              "objectId": "836",
+              "objectName": "Aspen Loft 10d",
+              "displayType": "Condominiums",
+              "fullDisplayType": "Condo | Condominiums",
+              "faTypeLabel": "Condo",
+              "listingType": "SALE",
+              "noOfAvailableSlots": {
+                "RENT": 0,
+                "SALE": 0
+              },
+              "noOfSearches": 0,
+              "noOfActiveAgents": 2,
+              "noOfActiveListings": 3,
+              "isNewLaunch": false,
+              "propertyName": "Aspen Loft",
+              "coverImageUrl": "https://sg1-cdn-integration.pgimgs.com/projectnet-project/5523/ZPPHO.96890286.R550X550.jpg",
+              "propertyType": "CONDO",
+              "unitTypes": [
+                "CONDO"
+              ],
+              "bookings": [
+                {
+                  "id": 154963,
+                  "startDate": "2025-02-21T19:57:28+08:00",
+                  "endDate": "2025-03-10T19:57:28+08:00",
+                  "statusCode": "ACT",
+                  "creditCharged": 0,
+                  "isExpiring": false,
+                  "listingType": "SALE",
+                  "isAutoRenewal": false,
+                  "listingId": 25339712,
+                  "isLegacy": false,
+                  "autoRenewalCharge": 9,
+                  "proratedDiscount": 0
+                }
+              ],
+              "creditCharge": {
+                "RENT": {
+                  "30d": 15,
+                  "90d": 46,
+                  "180d": 90,
+                  "full": 2,
+                  "listingType": "RENT",
+                  "isNewLaunch": false
+                },
+                "SALE": {
+                  "30d": 9,
+                  "90d": 28,
+                  "180d": 54,
+                  "full": 8,
+                  "listingType": "SALE",
+                  "isNewLaunch": false
+                }
+              },
+              "bundleDiscount": 15,
+              "changeFee": {
+                "changeFee0to7": 15,
+                "changeFee8to14": 15,
+                "changeFeeLast3Days": 15,
+                "changeFeeRest": 15
+              }
             }
           ]
         },
