@@ -1,0 +1,104 @@
+{
+    "alert_list_1": {
+      "recsys_response": {
+        "20250318074316192": {
+          "list_1": {
+            "id": "25562689",
+            "localizedTitle": "One Marina Gardens",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 4,450,000",
+            "size_bedrooms_value": "4",
+            "size_bathrooms_value": "3",
+            "location_districtText": "Boat Quay / Raffles Place / Marina",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25562689/UPHO.154192290.V550/One-Marina-Gardens-Boat-Quay-Raffles-Place-Marina-Singapore.jpg"
+          },
+          "list_2": {
+            "id": "25561783",
+            "localizedTitle": "2 Jalan Elok",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 15,500,000",
+            "size_bedrooms_value": "5",
+            "size_bathrooms_value": "8",
+            "location_districtText": "Orchard / River Valley",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25561783/UPHO.154179972.V550/2-Jalan-Elok-Orchard-River-Valley-Singapore.jpg"
+          }
+        },
+        "20250311075616493": {},
+        "20250311075547741": {
+          "list_1": {
+            "id": "24984254",
+            "localizedTitle": "Midwood",
+            "typeCode": "RENT",
+            "price_pretty": "S$ 3,250 /mo",
+            "size_bedrooms_value": "1",
+            "size_bathrooms_value": "1",
+            "location_districtText": "Dairy Farm / Bukit Panjang / Choa Chu Kang",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/24984254/UPHO.147219478.V550/Midwood-Dairy-Farm-Bukit-Panjang-Choa-Chu-Kang-Singapore.jpg"
+          }
+        },
+        "20250311075530312": {
+          "list_1": {
+            "id": "25562547",
+            "localizedTitle": "Parc Esta",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,065,000",
+            "size_bedrooms_value": "1",
+            "size_bathrooms_value": "1",
+            "location_districtText": "Eunos / Geylang / Paya Lebar",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25562547/UPHO.154190681.V550/Parc-Esta-Eunos-Geylang-Paya-Lebar-Singapore.jpg"
+          }
+        },
+        "20250310180644412": {}
+      },
+      "total_count": {
+        "20250318074316192": 14,
+        "20250311075616493": 0,
+        "20250311075547741": 18,
+        "20250311075530312": 5,
+        "20250310180644412": 0
+      },
+      "urls": {
+        "20250318074316192": [
+          "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale"
+        ],
+        "20250311075616493": [
+          "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale&baths[]=1&baths[]=2&baths[]=3&baths[]=4&baths[]=5"
+        ],
+        "20250311075547741": [
+          "https://www.propertyguru.com.sg/property-for-rent?market=residential&listing_type=rent&lease_term[]=1YR&lease_term[]=2YR&lease_term[]=3YR&lease_term[]=FL&lease_term[]=ST"
+        ],
+        "20250311075530312": [
+          "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale&beds[]=1&beds[]=2&beds[]=3&beds[]=4"
+        ],
+        "20250310180644412": [
+          "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale&with_stream=true"
+        ]
+      },
+      "recsys_urls": {
+        "20250318074316192": [
+          "https://www.propertyguru.com.my/property-for-sale?listing_id[]=25562689&listing_id[]=25561783&listing_id[]=25562683&listing_id[]=25562583&listing_id[]=25562676&listing_id[]=25562674&listing_id[]=25304385&listing_id[]=25562633&listing_id[]=25562652&li",
+          "sting_id[]=25562656&listing_id[]=24651338&listing_id[]=25025201&listing_id[]=24657391&listing_id[]=25321617"
+        ],
+        "20250311075616493": [
+          "https://www.propertyguru.com.my/property-for-sale?"
+        ],
+        "20250311075547741": [
+          "https://www.propertyguru.com.my/property-for-rent?listing_id[]=24984254&listing_id[]=24993105&listing_id[]=18941213&listing_id[]=22222863&listing_id[]=21359791&listing_id[]=24219256&listing_id[]=24612447&listing_id[]=23672193&listing_id[]=24377133&li",
+          "sting_id[]=23614377&listing_id[]=20846489&listing_id[]=23941886&listing_id[]=22052387&listing_id[]=19540335&listing_id[]=24948127&listing_id[]=24138700&listing_id[]=23989835&listing_id[]=22313524"
+        ],
+        "20250311075530312": [
+          "https://www.propertyguru.com.my/property-for-sale?listing_id[]=25562547&listing_id[]=25347590&listing_id[]=25562616&listing_id[]=25131267&listing_id[]=25562028"
+        ],
+        "20250310180644412": [
+          "https://www.propertyguru.com.my/property-for-sale?"
+        ]
+      },
+      "lastupdated": {
+        "$time": "2025-03-27 15:36:44"
+      }
+    }
+  }
