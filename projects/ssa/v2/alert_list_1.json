@@ -1,0 +1,167 @@
+{
+    "alert_list_1": {
+      "recsys_response": {
+        "20250317052509789": {
+          "list_1": {
+            "id": "25284687",
+            "localizedTitle": "Avenue South Residence",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,990,000",
+            "size_bedrooms_value": "2",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Alexandra / Commonwealth",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25284687/UPHO.150795430.V550/Avenue-South-Residence-Alexandra-Commonwealth-Singapore.jpg"
+          },
+          "list_2": {
+            "id": "25173183",
+            "localizedTitle": "Avenue South Residence",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,620,000",
+            "size_bedrooms_value": "2",
+            "size_bathrooms_value": "1",
+            "location_districtText": "Alexandra / Commonwealth",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25173183/UPHO.149427653.V550/Avenue-South-Residence-Alexandra-Commonwealth-Singapore.jpg"
+          },
+          "list_3": {
+            "id": "25561580",
+            "localizedTitle": "Avenue South Residence",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,738,000",
+            "size_bedrooms_value": "2",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Alexandra / Commonwealth",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25561580/UPHO.154177084.V550/Avenue-South-Residence-Alexandra-Commonwealth-Singapore.jpg"
+          },
+          "list_4": {
+            "id": "24823454",
+            "localizedTitle": "Sea Pavilion Residences",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,850,000",
+            "size_bedrooms_value": "3",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Bedok / Upper East Coast",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/24823454/UPHO.145409328.V550/Sea-Pavilion-Residences-Bedok-Upper-East-Coast-Singapore.jpg"
+          }
+        },
+        "20241021124513223": {
+          "list_1": {
+            "id": "25259465",
+            "localizedTitle": "Kembangan Estate",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 10,900,000",
+            "size_bedrooms_value": "6",
+            "size_bathrooms_value": "6",
+            "location_districtText": "Eunos / Geylang / Paya Lebar",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25259465/UPHO.150478194.V550/Kembangan-Estate-Eunos-Geylang-Paya-Lebar-Singapore.jpg"
+          },
+          "list_2": {
+            "id": "25561430",
+            "localizedTitle": "Parc Esta",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,648,888",
+            "size_bedrooms_value": "2",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Eunos / Geylang / Paya Lebar",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25561430/UPHO.154174960.V550/Parc-Esta-Eunos-Geylang-Paya-Lebar-Singapore.jpg"
+          },
+          "list_3": {
+            "id": "25560467",
+            "localizedTitle": "Joo Chiat Gem with Garden",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 5,730,000",
+            "size_bedrooms_value": "3",
+            "size_bathrooms_value": "3",
+            "location_districtText": "East Coast / Marine Parade",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25560467/UPHO.154163130.V550/Joo-Chiat-Gem-with-Garden-East-Coast-Marine-Parade-Singapore.jpg"
+          },
+          "list_4": {
+            "id": "25560453",
+            "localizedTitle": "411 Eunos Road 5",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 788,000",
+            "size_bedrooms_value": "3",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Eunos / Geylang / Paya Lebar",
+            "location_hdbEstateText": "Geylang",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25560453/UPHO.154163009.V550/411-Eunos-Road-5-Eunos-Geylang-Paya-Lebar-Singapore.jpg"
+          }
+        },
+        "20230412072532766": {},
+        "20230412072143957": {
+          "list_1": {
+            "id": "24686375",
+            "localizedTitle": "Treasure at Tampines",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,200,000",
+            "size_bedrooms_value": "2",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Pasir Ris / Tampines",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/24686375/UPHO.154113243.V550/Treasure-at-Tampines-Pasir-Ris-Tampines-Singapore.jpg"
+          },
+          "list_2": {
+            "id": "25179530",
+            "localizedTitle": "⭐FREEHOLD⭐17XXPSF⭐DETACHED/BUNGALOW⭐WALK TO MRT⭐",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 8,998,000",
+            "size_bedrooms_value": "6",
+            "size_bathrooms_value": "4",
+            "location_districtText": "Eunos / Geylang / Paya Lebar",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25179530/UPHO.149505566.V550/%E2%AD%90FREEHOLD%E2%AD%9017XXPSF%E2%AD%90DETACHED-BUNGALOW%E2%AD%90WALK-TO-MRT%E2%AD%90-Eunos-Geylang-Paya-Lebar-Singapore.jpg"
+          },
+          "list_3": {
+            "id": "25337158",
+            "localizedTitle": "Eastpoint Green",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 1,350,000",
+            "size_bedrooms_value": "3",
+            "size_bathrooms_value": "3",
+            "location_districtText": "Pasir Ris / Tampines",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25337158/UPHO.151436714.V550/Eastpoint-Green-Pasir-Ris-Tampines-Singapore.jpg"
+          },
+          "list_4": {
+            "id": "25264268",
+            "localizedTitle": "Livingston Mansions",
+            "typeCode": "SALE",
+            "price_pretty": "S$ 3,500,000",
+            "size_bedrooms_value": "4",
+            "size_bathrooms_value": "3",
+            "location_districtText": "East Coast / Marine Parade",
+            "location_hdbEstateText": "",
+            "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25264268/UPHO.154079384.V550/Livingston-Mansions-East-Coast-Marine-Parade-Singapore.jpg"
+          }
+        }
+      },
+      "total_count": {
+        "20250317052509789": 6,
+        "20241021124513223": 4,
+        "20230412072532766": 0,
+        "20230412072143957": 4
+      },
+      "urls": {
+        "20250317052509789": "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale",
+        "20250313123117606": "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale&freetext=DT1/BP6+Bukit+Panjang+MRT&MRT_STATIONS[]=BP6&MRT_STATIONS[]=DT1&beds[]=1&beds[]=2&minPricePerArea=200&maxPricePerArea=400&baths[]=2&baths[]=3&tenure[]=L103&tenure[]=L999&mintop=1977&maxtop=1979&furnishing[]=PART&furnishing[]=UNFUR&listing_posted=3&with_stream=true",
+        "20241021124513223": "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale¢er_lat=1.3197342¢er_long=103.9028883&distance=1&MRT_STATIONS[]=EW7&MRT_STATION=26",
+        "20230412072532766": "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale&MRT_STATIONS[]=CC9&MRT_STATIONS[]=EW8",
+        "20230412072143957": "https://www.propertyguru.com.sg/property-for-sale?market=residential&listing_type=sale&MRT_STATIONS[]=EW3&MRT_STATIONS[]=EW6"
+      },
+      "recsys_urls": {
+        "20250317052509789": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=25284687&listing_id[]=25173183&listing_id[]=25561580&listing_id[]=24823454&listing_id[]=25202194&listing_id[]=24476195",
+        "20241021124513223": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=25259465&listing_id[]=25561430&listing_id[]=25560467&listing_id[]=25560453",
+        "20230412072532766": "https://www.propertyguru.com.my/property-for-sale?",
+        "20230412072143957": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=24686375&listing_id[]=25179530&listing_id[]=25337158&listing_id[]=25264268"
+      },
+      "lastupdated": {
+        "$time": "2025-03-27 03:15:14"
+      }
+    }
+  }
