@@ -1,0 +1,104 @@
+{
+    "alert_list_1": {
+      "recsys_response": {
+        "20250318074316192": {
+          "list_1": {
+            "id": "34141817",
+            "localizedTitle": "Reflection Residences",
+            "typeCode": "CONDO",
+            "price_pretty": "RM 900,000",
+            "size_bedrooms_value": "3",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Mutiara Damansara",
+            "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/34141817/UPHO.206911892.V550/Reflection-Residences-Mutiara-Damansara-Malaysia.jpg"
+          },
+          "list_2": {
+            "id": "41139972",
+            "localizedTitle": "The Greens",
+            "typeCode": "CONDO",
+            "price_pretty": "RM 2,300,000",
+            "size_bedrooms_value": "2",
+            "size_bathrooms_value": "3",
+            "location_districtText": "Taman Tun Dr Ismail",
+            "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/41139972/UPHO.243919934.V550/The-Greens-Taman-Tun-Dr-Ismail-Malaysia.jpg"
+          },
+          "list_3": {
+            "id": "40848547",
+            "localizedTitle": "First Home Choice Prime Location Large Size Condo Only RM430k",
+            "typeCode": "CONDO",
+            "price_pretty": "RM 430,000",
+            "size_bedrooms_value": "3",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Sri Petaling",
+            "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/40848547/UPHO.240996239.V550/First-Home-Choice-Prime-Location-Large-Size-Condo-Only-RM430k-Sri-Petaling-Malaysia.jpg"
+          },
+          "list_4": {
+            "id": "41404985",
+            "localizedTitle": "Foreigner MM2H Friendly Cashback RM300k Airbnb Investment Property at KLCC",
+            "typeCode": "CONDO",
+            "price_pretty": "RM 850,000",
+            "size_bedrooms_value": "4",
+            "size_bathrooms_value": "3",
+            "location_districtText": "KL City Centre",
+            "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/41404985/UPHO.246656988.V550/Foreigner-MM2H-Friendly-Cashback-RM300k-Airbnb-Investment-Property-at-KLCC-KL-City-Centre-Malaysia.jpg"
+          }
+        },
+        "20250311075616493": {
+          "list_1": {
+            "id": "39003186",
+            "localizedTitle": "Jimbaran",
+            "typeCode": "SEMI",
+            "price_pretty": "RM 1,898,000",
+            "size_bedrooms_value": "4",
+            "size_bathrooms_value": "4",
+            "location_districtText": "Rawang",
+            "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/39003186/UPHO.222504425.V550/Jimbaran-Rawang-Malaysia.jpg"
+          },
+          "list_2": {
+            "id": "40711905",
+            "localizedTitle": "Sri Akasia",
+            "typeCode": "APT",
+            "price_pretty": "RM 328,000",
+            "size_bedrooms_value": "3",
+            "size_bathrooms_value": "2",
+            "location_districtText": "Tampoi",
+            "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/40711905/UPHO.239620514.V550/Sri-Akasia-Tampoi-Malaysia.jpg"
+          },
+          "list_3": {
+            "id": "34128703",
+            "localizedTitle": "The Greens",
+            "typeCode": "CONDO",
+            "price_pretty": "RM 6,000,000",
+            "size_bedrooms_value": "5",
+            "size_bathrooms_value": "7",
+            "location_districtText": "Taman Tun Dr Ismail",
+            "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/34128703/UPHO.206832152.V550/The-Greens-Taman-Tun-Dr-Ismail-Malaysia.jpg"
+          }
+        },
+        "20250311075530312": {},
+        "20250310180644412": {}
+      },
+      "total_count": {
+        "20250318074316192": 20,
+        "20250311075616493": 3,
+        "20250311075530312": 0,
+        "20250310180644412": 0
+      },
+      "urls": {
+        "20250318074316192": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale",
+        "20250311075616493": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&baths[]=1&baths[]=2&baths[]=3&baths[]=4&baths[]=5",
+        "20250311075547741": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&lease_term[]=1YR&lease_term[]=2YR&lease_term[]=3YR&lease_term[]=FL&lease_term[]=ST",
+        "20250311075530312": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&beds[]=1&beds[]=2&beds[]=3&beds[]=4",
+        "20250310180644412": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&with_stream=true"
+      },
+      "recsys_urls": {
+        "20250318074316192": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=34141817&listing_id[]=41139972&listing_id[]=40848547&listing_id[]=41404985&listing_id[]=40406396&listing_id[]=41009981&listing_id[]=42284109&listing_id[]=41295162&listing_id[]=42106860&listing_id[]=38668870&listing_id[]=41576813&listing_id[]=41883163&listing_id[]=42058864&listing_id[]=41219336&listing_id[]=40934573&listing_id[]=42004829&listing_id[]=41306420&listing_id[]=38206296&listing_id[]=34128610&listing_id[]=38900623",
+        "20250311075616493": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=39003186&listing_id[]=40711905&listing_id[]=34128703",
+        "20250311075530312": "https://www.propertyguru.com.my/property-for-sale?",
+        "20250310180644412": "https://www.propertyguru.com.my/property-for-sale?"
+      },
+      "lastupdated": {
+        "$time": "2025-04-02 02:30:02"
+      }
+    }
+  }
