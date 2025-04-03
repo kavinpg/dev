@@ -1,0 +1,61 @@
+{
+  "alert_list_1": {
+    "recsys_response": {
+      "20230620083049242": {
+        "list_1": {
+          "id": "42266985",
+          "localizedTitle": "Twin Galaxy (Dwi Galaksi)",
+          "typeCode": "SRES",
+          "price_pretty": "RM 490,000",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Johor Bahru",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/42266985/UPHO.255908401.V550/Twin-Galaxy-Dwi-Galaksi-Johor-Bahru-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "34396003",
+          "localizedTitle": "MIDVALLEY [FULLY FURNISHED] RM1.3K MONTHLY 3ROOMS",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 299,000",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Mid Valley City",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/34396003/UPHO.265495694.V550/MIDVALLEY-FULLY-FURNISHED-RM1-3K-MONTHLY-3ROOMS-Mid-Valley-City-Malaysia.jpg"
+        },
+        "list_3": {
+          "id": "42072338",
+          "localizedTitle": "Grand Medini",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 294,000",
+          "size_bedrooms_value": "0",
+          "size_bathrooms_value": "1",
+          "location_districtText": "Iskandar Puteri (Nusajaya)",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/42072338/UPHO.253788694.V550.R90/Grand-Medini-Iskandar-Puteri-Nusajaya-Malaysia.jpg"
+        },
+        "list_4": {
+          "id": "39899082",
+          "localizedTitle": "【European Concept Condo @ Mont Kiara】ROI 10% & up to 17% Rebate with Furnished",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 538,000",
+          "size_bedrooms_value": "2",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Mont Kiara",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/39899082/UPHO.231405379.V550/%E3%80%90European-Concept-Condo-Mont-Kiara%E3%80%91ROI-10-up-to-17-Rebate-with-Furnished-Mont-Kiara-Malaysia.jpg"
+        }
+      }
+    },
+    "total_count": {
+      "20230620083049242": 20
+    },
+    "urls": {
+      "20250403013119865": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&freetext=petaling+jaya&beds[]=0&beds[]=1&furnishing[]=FULL&furnishing[]=PART",
+      "20230620083049242": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&district_code[]=ijzo5&property_type=N&property_type_code[]=APT&property_type_code[]=CONDO&property_type_code[]=DUPLX&property_type_code[]=FLAT&property_type_code[]=PENT&property_type_code[]=SRES&property_type_code[]=STDIO&property_type_code[]=TOWNC&maxprice=600000&beds[]=2&beds[]=3&beds[]=4"
+    },
+    "recsys_urls": {
+      "20230620083049242": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=42266985&listing_id[]=34396003&listing_id[]=42072338&listing_id[]=39899082&listing_id[]=42005098&listing_id[]=38431798&listing_id[]=43166522&listing_id[]=40912575&listing_id[]=41698405&listing_id[]=41602125&listing_id[]=40989780&listing_id[]=41475549&listing_id[]=37633032&listing_id[]=41697985&listing_id[]=38594489&listing_id[]=41537360&listing_id[]=42126131&listing_id[]=42005537&listing_id[]=42028777&listing_id[]=31211396"
+    },
+    "lastupdated": {
+      "$time": "2025-04-03 04:52:11"
+    }
+  }
+}
