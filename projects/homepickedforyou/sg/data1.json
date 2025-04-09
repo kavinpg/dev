@@ -1,0 +1,52 @@
+{
+    "listingsJson": [
+      {
+        "localizedTitle": "Pasir Ris 8",
+        "price_pretty": "S$ 4,000 /mo",
+        "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25572766/UPHO.154319484.V550/Pasir-Ris-8-Pasir-Ris-Tampines-Singapore.jpg",
+        "id": "25572766",
+        "location_districtText": "Pasir Ris / Tampines",
+        "location_hdbEstateText": ""
+      },
+      {
+        "localizedTitle": "Pasir Ris 8",
+        "price_pretty": "S$ 4,500 /mo",
+        "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25572272/UPHO.154313841.V550/Pasir-Ris-8-Pasir-Ris-Tampines-Singapore.jpg",
+        "id": "25572272",
+        "location_districtText": "Pasir Ris / Tampines",
+        "location_hdbEstateText": ""
+      },
+      {
+        "localizedTitle": "Double Bay Residences",
+        "price_pretty": "S$ 4,193 /mo",
+        "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25572828/UPHO.154320301.V550/Double-Bay-Residences-Pasir-Ris-Tampines-Singapore.jpg",
+        "id": "25572828",
+        "location_districtText": "Pasir Ris / Tampines",
+        "location_hdbEstateText": ""
+      },
+      {
+        "localizedTitle": "My Manhattan",
+        "price_pretty": "S$ 4,200 /mo",
+        "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/20096555/UPHO.154213661.V550/My-Manhattan-Pasir-Ris-Tampines-Singapore.jpg",
+        "id": "20096555",
+        "location_districtText": "Pasir Ris / Tampines",
+        "location_hdbEstateText": ""
+      },
+      {
+        "localizedTitle": "Pasir Ris 8",
+        "price_pretty": "S$ 4,300 /mo",
+        "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25572852/UPHO.154321151.V550/Pasir-Ris-8-Pasir-Ris-Tampines-Singapore.jpg",
+        "id": "25572852",
+        "location_districtText": "Pasir Ris / Tampines",
+        "location_hdbEstateText": ""
+      }
+    ],
+    "listingsTotalCount": 13,
+    "ctaFilterLink": [
+      "https://www.propertyguru.com.sg/property-for-rent?listing_id[]=25572766&listing_id[]=25572272&listing_id[]=25572828&listing_id[]=20096555&listing_id[]=25572852&listing_id[]=25577960&listing_id[]=24692483&listing_id[]=25574567&listing_id[]=25577504&li",
+      "sting_id[]=24760553&listing_id[]=20934567&listing_id[]=22172525&listing_id[]=25574523"
+    ],
+    "lastupdated": {
+      "$time": "2025-04-09 08:59:42"
+    }
+  }
