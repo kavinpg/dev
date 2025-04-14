@@ -1,0 +1,44 @@
+{
+    "userId": "176d6189-4b34-34b4-a9d7-d228374a619c",
+    "clientApp":"SAVED_SEARCH_ALERT",
+    "idType": "PGUTID",
+    "fromDate": "01012024",
+    "country": "MY",
+
+    "listingType": "rent",
+    "market": "residential",
+    "propertyTypeCode": "CONDO", -> need array
+    "propertyTypeGroup": "N",
+    "regionCode": "58jok",
+    "areaCode": "jgrve", -> need array
+    "districtCode": "tprig", ->missing -> need array
+
+    "minPrice": 1,
+    "maxPrice": 1000000,
+    "minbed": 1,
+    "maxbed": 4,
+    "minbath": 1,
+    "maxbath": 4,
+    "minSize": 1,
+    "maxSize": 10000,
+    "leaseTerm": "1YR", -> need array
+    "tenureCode": "F", -> need array
+    "furnishing": ["FULL", "UNFUR"],
+    "floorLevel": "LOW", -> need array
+    "minPricePerArea": 1,
+    "maxPricePerArea": 50000,
+    "propertyId": "255",
+    "freetext": "condominium",
+    "unitFeatures": ["BAL"],
+    "projectFeatures": ["SWI", "GYM"],
+    "minTopYear": 1999,
+    "maxTopYear": 2026,
+    "isLiveTourAvailable": false,
+    "withFloorplans": false,
+    "withPhotos": true,
+    "withStream": false,
+
+    "lastPosted": 180,
+    "recommendation_count": 3
+    "locale": "en",
+}
