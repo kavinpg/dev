@@ -1,0 +1,102 @@
+{
+  "alert_list_1": {
+    "recsys_response": {
+      "20250416095953627": {
+        "list_1": {
+          "id": "43237295",
+          "localizedTitle": "Eco Spring Ecos Springs",
+          "typeCode": "CLUS",
+          "price_pretty": "RM 4,300 /mo",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "5",
+          "location_districtText": "Johor Bahru",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43237295/UPHO.266431037.V550/Eco-Spring-Ecos-Springs-Johor-Bahru-Malaysia.jpg"
+        }
+      },
+      "20250416095739833": {
+        "list_1": {
+          "id": "43236948",
+          "localizedTitle": "The Park Sky Residence",
+          "typeCode": "SRES",
+          "price_pretty": "RM 850,000",
+          "size_bedrooms_value": "2",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Bukit Jalil",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43236948/UPHO.266427452.V550/The-Park-Sky-Residence-Bukit-Jalil-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "43236684",
+          "localizedTitle": "The Ritz-Carlton Residences",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 1,600,000",
+          "size_bedrooms_value": "2",
+          "size_bathrooms_value": "2",
+          "location_districtText": "KL City Centre",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43236684/UPHO.266424570.V550/The-Ritz-Carlton-Residences-KL-City-Centre-Malaysia.jpg"
+        },
+        "list_3": {
+          "id": "41570422",
+          "localizedTitle": "Marriott Residence @ Gurney",
+          "typeCode": "SRES",
+          "price_pretty": "RM 6,880,000",
+          "size_bedrooms_value": "5",
+          "size_bathrooms_value": "5",
+          "location_districtText": "Gurney Drive",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/41570422/UPHO.248411673.V550/Marriott-Residence-Gurney-Gurney-Drive-Malaysia.jpg"
+        },
+        "list_4": {
+          "id": "43236983",
+          "localizedTitle": "The Park Sky Residence",
+          "typeCode": "SRES",
+          "price_pretty": "RM 1,250,000",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Bukit Jalil",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43236983/UPHO.266427844.V550/The-Park-Sky-Residence-Bukit-Jalil-Malaysia.jpg"
+        }
+      },
+      "20250416095015884": {
+        "list_1": {
+          "id": "43237271",
+          "localizedTitle": "Taman Tun Dr Ismail (TTDI)",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 3,200,000",
+          "size_bedrooms_value": "5",
+          "size_bathrooms_value": "4",
+          "location_districtText": "Taman Tun Dr Ismail",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43237271/UPHO.266430801.V550/Taman-Tun-Dr-Ismail-TTDI-Taman-Tun-Dr-Ismail-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "35574438",
+          "localizedTitle": "[NEW SEMI-D VILLA] KOTA KEMUNING",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 1,200,000",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "5",
+          "location_districtText": "Shah Alam",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/35574438/UPHO.191692859.V550/-NEW-SEMI-D-VILLA-KOTA-KEMUNING-Shah-Alam-Malaysia.jpg"
+        }
+      }
+    },
+    "total_count": {
+      "20250416095953627": 1,
+      "20250416095739833": 9,
+      "20250416095015884": 2
+    },
+    "urls": {
+      "20250416100211506": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&lease_term[]=1YR&lease_term[]=2YR&lease_term[]=3YR&lease_term[]=FL&lease_term[]=ST&unitFeatures[]=AIRC&unitFeatures[]=BAL&unitFeatures[]=BATH&unitFeatures[]=CORN&unitFeatures[]=MAID&unitFeatures[]=PPOOL&unitFeatures[]=RENO&unitFeatures[]=TERR",
+      "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&propertyTypeGroup=S&propertyTypeCode[]=CLUS&propertyTypeCode[]=SEMI&baths[]=1&baths[]=2&baths[]=3&baths[]=4&baths[]=5&baths[]=6",
+      "20250416095739833": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=N&propertyTypeCode[]=APT&propertyTypeCode[]=CONDO&propertyTypeCode[]=DUPLX&propertyTypeCode[]=FLAT&propertyTypeCode[]=PENT&propertyTypeCode[]=SRES&propertyTypeCode[]=STDIO&propertyTypeCode[]=TOWNC&with_stream=1",
+      "20250416095339794": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&tenure[]=B&tenure[]=F&tenure[]=L&tenure[]=M&tenure[]=PLS&floorLevel[]=GND&floorLevel[]=HIGH&floorLevel[]=LOW&floorLevel[]=MID&floorLevel[]=PENT&furnishing[]=FULL&furnishing[]=PART&furnishing[]=UNFUR&unitFeatures[]=AIRC&unitFeatures[]=BAL&unitFeatures[]=BATH&unitFeatures[]=CORN&unitFeatures[]=MAID&unitFeatures[]=PPOOL&unitFeatures[]=RENO&unitFeatures[]=TERR&projectFeatures[]=SWI",
+      "20250416095015884": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=S&propertyTypeCode[]=CLUS&propertyTypeCode[]=SEMI&newProject=true"
+    },
+    "recsys_urls": {
+      "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?listing_id[]=43237295",
+      "20250416095739833": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=43236948&listing_id[]=43236684&listing_id[]=41570422&listing_id[]=43236983&listing_id[]=35517398&listing_id[]=41776162&listing_id[]=41451522&listing_id[]=41134270&listing_id[]=41743338",
+      "20250416095015884": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=43237271&listing_id[]=35574438"
+    },
+    "lastupdated": {
+      "$time": "2025-04-16 11:04:10"
+    }
+  }
+}
