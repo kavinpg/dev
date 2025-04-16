@@ -1,0 +1,152 @@
+{
+  "alert_list_1": {
+    "recsys_response": {
+      "20250416095953627": {
+        "list_1": {
+          "id": "43236937",
+          "localizedTitle": "2 Storey Semi D House Kota Emerald, Rawang",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 3,800 /mo",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "5",
+          "location_districtText": "Rawang",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43236937/UPHO.266427375.V550/2-Storey-Semi-D-House-Kota-Emerald-Rawang-Rawang-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "43235612",
+          "localizedTitle": "Dolomite Templer",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 6,000 /mo",
+          "size_bedrooms_value": "6",
+          "size_bathrooms_value": "6",
+          "location_districtText": "Rawang",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43235612/UPHO.266413287.V550/Dolomite-Templer-Rawang-Malaysia.jpg"
+        },
+        "list_3": {
+          "id": "43236105",
+          "localizedTitle": "Impian Emas Impians Emas Impian Emas",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 4,200 /mo",
+          "size_bedrooms_value": "5",
+          "size_bathrooms_value": "4",
+          "location_districtText": "Skudai",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43236105/UPHO.266418404.V550/Impian-Emas-Impians-Emas-Impian-Emas-Skudai-Malaysia.jpg"
+        },
+        "list_4": {
+          "id": "43236008",
+          "localizedTitle": "Eco Spring",
+          "typeCode": "CLUS",
+          "price_pretty": "RM 4,300 /mo",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "5",
+          "location_districtText": "Johor Bahru",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43236008/UPHO.266417235.V550/Eco-Spring-Johor-Bahru-Malaysia.jpg"
+        }
+      },
+      "20250416095739833": {
+        "list_1": {
+          "id": "33025295",
+          "localizedTitle": "Pavilion Damansara Heights",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 4,028,200",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "4",
+          "location_districtText": "Damansara Heights",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/33025295/UPHO.182068377.V550/Pavilion-Damansara-Heights-Damansara-Heights-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "36311013",
+          "localizedTitle": "Zeta Deskye (Alam Saujana)",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 428,000",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Jalan Ipoh",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/36311013/UPHO.196534213.V550/Zeta-Deskye-Alam-Saujana-Jalan-Ipoh-Malaysia.jpg"
+        },
+        "list_3": {
+          "id": "39616607",
+          "localizedTitle": "KL Double Storey Sky Bangalow @ Garden in the Sky @ Big L-Shaped Balcony",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 500,000",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "3",
+          "location_districtText": "Bukit Jalil",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/39616607/UPHO.228568053.V550/KL-Double-Storey-Sky-Bangalow-Garden-in-the-Sky-Big-L-Shaped-Balcony-Bukit-Jalil-Malaysia.jpg"
+        },
+        "list_4": {
+          "id": "43236838",
+          "localizedTitle": "The Park Sky Residence",
+          "typeCode": "SRES",
+          "price_pretty": "RM 1,050,000",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Bukit Jalil",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43236838/UPHO.266426346.V550/The-Park-Sky-Residence-Bukit-Jalil-Malaysia.jpg"
+        }
+      },
+      "20250416095015884": {
+        "list_1": {
+          "id": "43235308",
+          "localizedTitle": "Bandar Dato Onn, Jalan Perjiranan 12",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 1,345,000",
+          "size_bedrooms_value": "6",
+          "size_bathrooms_value": "4",
+          "location_districtText": "Tebrau",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43235308/UPHO.266410253.V550/Bandar-Dato-Onn-Jalan-Perjiranan-12-Tebrau-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "35592741",
+          "localizedTitle": "[PRE LAUNCH SEMI-D] KOTA KEMUNING",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 1,180,000",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "4",
+          "location_districtText": "Shah Alam",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/35592741/UPHO.191763110.V550/-PRE-LAUNCH-SEMI-D-KOTA-KEMUNING-Shah-Alam-Malaysia.jpg"
+        },
+        "list_3": {
+          "id": "35803565",
+          "localizedTitle": "Taman Indah 1, Bandar Sungai Long",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 1,580,000",
+          "size_bedrooms_value": "5",
+          "size_bathrooms_value": "4",
+          "location_districtText": "Bandar Sungai Long",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/35803565/UPHO.191758351.V550/Taman-Indah-1-Bandar-Sungai-Long-Bandar-Sungai-Long-Malaysia.jpg"
+        },
+        "list_4": {
+          "id": "37437666",
+          "localizedTitle": "New Freehold 40x90 Semi-D 2-sty",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 1,270,000",
+          "size_bedrooms_value": "5",
+          "size_bathrooms_value": "6",
+          "location_districtText": "Bandar Menjalara",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/37437666/UPHO.207312454.V550/New-Freehold-40x90-Semi-D-2-sty-Bandar-Menjalara-Malaysia.jpg"
+        }
+      }
+    },
+    "total_count": {
+      "20250416095953627": 15,
+      "20250416095739833": 17,
+      "20250416095015884": 15
+    },
+    "urls": {
+      "20250416100211506": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&lease_term[]=1YR&lease_term[]=2YR&lease_term[]=3YR&lease_term[]=FL&lease_term[]=ST&unitFeatures[]=AIRC&unitFeatures[]=BAL&unitFeatures[]=BATH&unitFeatures[]=CORN&unitFeatures[]=MAID&unitFeatures[]=PPOOL&unitFeatures[]=RENO&unitFeatures[]=TERR",
+      "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&propertyTypeGroup=S&propertyTypeCode[]=CLUS&propertyTypeCode[]=SEMI&baths[]=1&baths[]=2&baths[]=3&baths[]=4&baths[]=5&baths[]=6",
+      "20250416095739833": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=N&propertyTypeCode[]=APT&propertyTypeCode[]=CONDO&propertyTypeCode[]=DUPLX&propertyTypeCode[]=FLAT&propertyTypeCode[]=PENT&propertyTypeCode[]=SRES&propertyTypeCode[]=STDIO&propertyTypeCode[]=TOWNC&with_stream=1",
+      "20250416095339794": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&tenure[]=B&tenure[]=F&tenure[]=L&tenure[]=M&tenure[]=PLS&floorLevel[]=GND&floorLevel[]=HIGH&floorLevel[]=LOW&floorLevel[]=MID&floorLevel[]=PENT&furnishing[]=FULL&furnishing[]=PART&furnishing[]=UNFUR&unitFeatures[]=AIRC&unitFeatures[]=BAL&unitFeatures[]=BATH&unitFeatures[]=CORN&unitFeatures[]=MAID&unitFeatures[]=PPOOL&unitFeatures[]=RENO&unitFeatures[]=TERR&projectFeatures[]=SWI",
+      "20250416095015884": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=S&propertyTypeCode[]=CLUS&propertyTypeCode[]=SEMI&newProject=true"
+    },
+    "recsys_urls": {
+      "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?listing_id[]=43236937&listing_id[]=43235612&listing_id[]=43236105&listing_id[]=43236008&listing_id[]=43236803&listing_id[]=43236562&listing_id[]=43237137&listing_id[]=43236978&listing_id[]=43235376&listing_id[]=43235486&listing_id[]=43233352&listing_id[]=43236028&listing_id[]=43235340&listing_id[]=41247463&listing_id[]=41638563",
+      "20250416095739833": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=33025295&listing_id[]=36311013&listing_id[]=39616607&listing_id[]=43236838&listing_id[]=39322565&listing_id[]=43236527&listing_id[]=36124001&listing_id[]=42092777&listing_id[]=43235731&listing_id[]=42258726&listing_id[]=30215157&listing_id[]=40374223&listing_id[]=41750758&listing_id[]=40590587&listing_id[]=43235319&listing_id[]=43232741&listing_id[]=39929810",
+      "20250416095015884": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=43235308&listing_id[]=35592741&listing_id[]=35803565&listing_id[]=37437666&listing_id[]=42327128&listing_id[]=43234255&listing_id[]=37523825&listing_id[]=35592108&listing_id[]=25262897&listing_id[]=42162563&listing_id[]=37574029&listing_id[]=42175181&listing_id[]=35604519&listing_id[]=35927140&listing_id[]=41563948"
+    },
+    "lastupdated": {
+      "$time": "2025-04-16 10:45:38"
+    }
+  }
+}

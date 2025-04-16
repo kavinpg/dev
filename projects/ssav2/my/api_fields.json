@@ -7,11 +7,11 @@
 
     "listingType": "rent",
     "market": "residential",
-    "propertyTypeCode": "CONDO", -> need array
+    "propertyTypeCode": "CONDO", -> need array WORKS
     "propertyTypeGroup": "N",
     "regionCode": "58jok",
-    "areaCode": "jgrve", -> need array
-    "districtCode": "tprig", ->missing -> need array
+    "areaCode": "xp5xq,5ez9w", -> need array
+    "districtCode": "av65k,3hrks", ->missing -> need array
 
     "minPrice": 1,
     "maxPrice": 1000000,
