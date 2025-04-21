@@ -1,0 +1,146 @@
+{
+  "alert_list_1": {
+    "recsys_response": {
+      "20250416130654136": {
+        "list_1": {
+          "id": "42348724",
+          "localizedTitle": "Bayu 1 Residence",
+          "typeCode": "TOWNC",
+          "price_pretty": "RM 1,100 /mo",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Nilai",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/42348724/UPHO.256798569.V550/Bayu-1-Residence-Nilai-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "42276674",
+          "localizedTitle": "Trefoil",
+          "typeCode": "STDIO",
+          "price_pretty": "RM 2,000 /mo",
+          "size_bedrooms_value": "2",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Setia Alam",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/42276674/UPHO.256013617.V550/Trefoil-Setia-Alam-Malaysia.jpg"
+        }
+      },
+      "20250416130631700": {
+        "list_1": {
+          "id": "43258279",
+          "localizedTitle": "Taman Ehsan Jaya",
+          "typeCode": "FLAT",
+          "price_pretty": "RM 228,000",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Ulu Tiram",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43258279/UPHO.266657715.V550/Taman-Ehsan-Jaya-Ulu-Tiram-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "43259605",
+          "localizedTitle": "Flat Taman Perling",
+          "typeCode": "FLAT",
+          "price_pretty": "RM 160,000",
+          "size_bedrooms_value": "2",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Johor Bahru",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43259605/UPHO.266671215.V550/Flat-Taman-Perling-Johor-Bahru-Malaysia.jpg"
+        },
+        "list_3": {
+          "id": "43259109",
+          "localizedTitle": "Taman Taming Jaya",
+          "typeCode": "FLAT",
+          "price_pretty": "RM 88,000",
+          "size_bedrooms_value": "2",
+          "size_bathrooms_value": "1",
+          "location_districtText": "Balakong",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43259109/UPHO.266666008.V550/Taman-Taming-Jaya-Balakong-Malaysia.jpg"
+        },
+        "list_4": {
+          "id": "43261155",
+          "localizedTitle": "PR1MA @ LARKIN INDAH",
+          "typeCode": "FLAT",
+          "price_pretty": "RM 380,000",
+          "size_bedrooms_value": "3",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Johor Bahru",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43261155/UPHO.266688917.V550/PR1MA-LARKIN-INDAH-Johor-Bahru-Malaysia.jpg"
+        }
+      },
+      "20250416100211506": {
+        "list_1": {
+          "id": "43257940",
+          "localizedTitle": "One Central Park",
+          "typeCode": "CONDO",
+          "price_pretty": "RM 4,900 /mo",
+          "size_bedrooms_value": "2",
+          "size_bathrooms_value": "1",
+          "location_districtText": "Desa Parkcity",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43257940/UPHO.266653700.V550/One-Central-Park-Desa-Parkcity-Malaysia.jpg"
+        }
+      },
+      "20250416095953627": {
+        "list_1": {
+          "id": "43259902",
+          "localizedTitle": "Garden Villas, Bukit Indah",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 4,000 /mo",
+          "size_bedrooms_value": "6",
+          "size_bathrooms_value": "6",
+          "location_districtText": "Iskandar Puteri (Nusajaya)",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43259902/UPHO.266674732.V550/Garden-Villas-Bukit-Indah-Iskandar-Puteri-Nusajaya-Malaysia.jpg"
+        },
+        "list_2": {
+          "id": "42368326",
+          "localizedTitle": "SS3, Taman Universiti, Petaling Jaya",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 4,500 /mo",
+          "size_bedrooms_value": "5",
+          "size_bathrooms_value": "3",
+          "location_districtText": "Petaling Jaya",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/42368326/UPHO.257005275.V550/SS3-Taman-Universiti-Petaling-Jaya-Petaling-Jaya-Malaysia.jpg"
+        },
+        "list_3": {
+          "id": "43260697",
+          "localizedTitle": "The Peak Bandar Putra",
+          "typeCode": "CLUS",
+          "price_pretty": "RM 3,500 /mo",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "3",
+          "location_districtText": "Kulai",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43260697/UPHO.266683425.V550/The-Peak-Bandar-Putra-Kulai-Malaysia.jpg"
+        },
+        "list_4": {
+          "id": "43258838",
+          "localizedTitle": "TAMAN TRONOH BARU",
+          "typeCode": "SEMI",
+          "price_pretty": "RM 1,200 /mo",
+          "size_bedrooms_value": "4",
+          "size_bathrooms_value": "2",
+          "location_districtText": "Ipoh",
+          "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/43258838/UPHO.266663425.V550/TAMAN-TRONOH-BARU-Ipoh-Malaysia.jpg"
+        }
+      }
+    },
+    "total_count": {
+      "20250416130654136": 2,
+      "20250416130631700": 15,
+      "20250416100211506": 1,
+      "20250416095953627": 18
+    },
+    "urls": {
+      "20250416130654136": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&propertyTypeGroup=N&propertyTypeCode[]=STDIO&propertyTypeCode[]=TOWNC&unitFeatures[]=BAL",
+      "20250416130631700": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=N&propertyTypeCode[]=DUPLX&propertyTypeCode[]=FLAT&baths[]=1&baths[]=2&baths[]=4&baths[]=5&baths[]=6",
+      "20250416130557143": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=B&propertyTypeCode[]=BUNG&propertyTypeCode[]=LBUNG&propertyTypeCode[]=TWINC&propertyTypeCode[]=TWINV&propertyTypeCode[]=ZBUNG&beds[]=0&beds[]=1&minsize=100&maxsize=100000&baths[]=1&baths[]=2",
+      "20250416100211506": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&lease_term[]=1YR&lease_term[]=2YR&lease_term[]=3YR&lease_term[]=FL&lease_term[]=ST&unitFeatures[]=AIRC&unitFeatures[]=BAL&unitFeatures[]=BATH&unitFeatures[]=CORN&unitFeatures[]=MAID&unitFeatures[]=PPOOL&unitFeatures[]=RENO&unitFeatures[]=TERR",
+      "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&propertyTypeGroup=S&propertyTypeCode[]=CLUS&propertyTypeCode[]=SEMI&baths[]=1&baths[]=2&baths[]=3&baths[]=4&baths[]=5&baths[]=6"
+    },
+    "recsys_urls": {
+      "20250416130654136": "https://www.propertyguru.com.my/property-for-rent?listing_id[]=42348724&listing_id[]=42276674",
+      "20250416130631700": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=43258279&listing_id[]=43259605&listing_id[]=43259109&listing_id[]=43261155&listing_id[]=41517456&listing_id[]=43260305&listing_id[]=41686390&listing_id[]=40142485&listing_id[]=37633032&listing_id[]=43259991&listing_id[]=43259307&listing_id[]=41708563&listing_id[]=35309506&listing_id[]=43261210&listing_id[]=35309522",
+      "20250416100211506": "https://www.propertyguru.com.my/property-for-rent?listing_id[]=43257940",
+      "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?listing_id[]=43259902&listing_id[]=42368326&listing_id[]=43260697&listing_id[]=43258838&listing_id[]=43261075&listing_id[]=43259401&listing_id[]=43260001&listing_id[]=43260798&listing_id[]=43259425&listing_id[]=43260065&listing_id[]=43259578&listing_id[]=43260776&listing_id[]=43259793&listing_id[]=43260991&listing_id[]=43259822&listing_id[]=43259378&listing_id[]=43260960&listing_id[]=43259366"
+    },
+    "lastupdated": {
+      "$time": "2025-04-21 11:32:59"
+    }
+  }
+}
