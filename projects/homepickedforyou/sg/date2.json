@@ -1,0 +1,74 @@
+{
+  "listingsJson": [
+    {
+      "localizedTitle": "Marina One Residences",
+      "price_pretty": "S$ 5,200 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/24651250/UPHO.143418940.V550/Marina-One-Residences-Boat-Quay-Raffles-Place-Marina-Singapore.jpg",
+      "id": "24651250",
+      "location_districtText": "Boat Quay / Raffles Place / Marina",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Park Colonial",
+      "price_pretty": "S$ 3,599 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/23980169/UPHO.135264780.V550/Park-Colonial-Macpherson-Potong-Pasir-Singapore.jpg",
+      "id": "23980169",
+      "location_districtText": "Macpherson / Potong Pasir",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Sims Urban Oasis",
+      "price_pretty": "S$ 2,950 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60004627/UPHO.155287846.V550/Sims-Urban-Oasis-Eunos-Geylang-Paya-Lebar-Singapore.jpg",
+      "id": "60004627",
+      "location_districtText": "Eunos / Geylang / Paya Lebar",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Casa Cambio",
+      "price_pretty": "S$ 3,100 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/23260290/UPHO.154370561.V550/Casa-Cambio-Hougang-Punggol-Sengkang-Singapore.jpg",
+      "id": "23260290",
+      "location_districtText": "Hougang / Punggol / Sengkang",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "The Sail @ Marina Bay",
+      "price_pretty": "S$ 4,200 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/22964617/UPHO.129582228.V550/The-Sail-Marina-Bay-Boat-Quay-Raffles-Place-Marina-Singapore.jpg",
+      "id": "22964617",
+      "location_districtText": "Boat Quay / Raffles Place / Marina",
+      "location_hdbEstateText": ""
+    }
+  ],
+  "listingsTotalCount": 20,
+  "ctaFilterLink": [
+    "https://www.propertyguru.com.sg/property-for-rent?listing_id[]=24651250&listing_id[]=23980169&listing_id[]=60004627&listing_id[]=23260290&listing_id[]=22964617&listing_id[]=60001273&listing_id[]=18082601&listing_id[]=60007472&listing_id[]=24251363&li",
+    "sting_id[]=60004521&listing_id[]=60006706&listing_id[]=24422073&listing_id[]=21448340&listing_id[]=23754516&listing_id[]=22873007&listing_id[]=21870408&listing_id[]=21799140&listing_id[]=21779781&listing_id[]=18696676&listing_id[]=60003917"
+  ],
+  "listingsHistoryToStore": [
+    24651250,
+    23980169,
+    60004627,
+    23260290,
+    22964617,
+    60001273,
+    18082601,
+    60007472,
+    24251363,
+    60004521,
+    60006706,
+    24422073,
+    21448340,
+    23754516,
+    22873007,
+    21870408,
+    21799140,
+    21779781,
+    18696676,
+    60003917
+  ],
+  "lastupdated": {
+    "$time": "2025-06-11 14:27:10"
+  }
+}
