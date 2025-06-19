@@ -1,0 +1,68 @@
+{
+  "listingsJson": [
+    {
+      "localizedTitle": "Lentoria",
+      "price_pretty": "S$ 2,110,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/24827702/UPHO.148152790.V550/Lentoria-Mandai-Upper-Thomson-Singapore.jpg",
+      "id": "24827702",
+      "location_districtText": "Mandai / Upper Thomson",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Hillock Green",
+      "price_pretty": "S$ 2,400,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25356048/UPHO.151657737.V550/Hillock-Green-Mandai-Upper-Thomson-Singapore.jpg",
+      "id": "25356048",
+      "location_districtText": "Mandai / Upper Thomson",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Hillock Green",
+      "price_pretty": "S$ 2,657,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/24908799/UPHO.146375553.V550/Hillock-Green-Mandai-Upper-Thomson-Singapore.jpg",
+      "id": "24908799",
+      "location_districtText": "Mandai / Upper Thomson",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Lentoria",
+      "price_pretty": "S$ 2,000,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25317957/UPHO.151195560.V550/Lentoria-Mandai-Upper-Thomson-Singapore.jpg",
+      "id": "25317957",
+      "location_districtText": "Mandai / Upper Thomson",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Thomson Grove",
+      "price_pretty": "S$ 3,500,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60015948/UPHO.155417530.V550/Thomson-Grove-Mandai-Upper-Thomson-Singapore.jpg",
+      "id": "60015948",
+      "location_districtText": "Mandai / Upper Thomson",
+      "location_hdbEstateText": ""
+    }
+  ],
+  "listingsTotalCount": 12,
+  "ctaFilterLink": [
+    "https://www.propertyguru.com.sg/property-for-sale?listing_id[]=24827702&listing_id[]=25356048&listing_id[]=24908799&listing_id[]=25317957&listing_id[]=60015948&listing_id[]=60013933&listing_id[]=60014762&listing_id[]=25198784&listing_id[]=24739267&li",
+    "sting_id[]=25341213&listing_id[]=24739261&listing_id[]=24827712"
+  ],
+  "listingsHistoryToStore": [
+    24827702,
+    25356048,
+    24908799,
+    25317957,
+    60015948,
+    60013933,
+    60014762,
+    25198784,
+    24739267,
+    25341213,
+    24739261,
+    24827712
+  ],
+  "lastupdated": {
+    "$time": "2025-06-19 12:34:15"
+  },
+  "selectedPriority": "districtCode",
+  "selectedPriorityValue": "Mandai / Upper Thomson"
+}
