@@ -1,0 +1,42 @@
+{
+  "listingsJson": [
+    {
+      "localizedTitle": "Eight Riversuites",
+      "price_pretty": "S$ 2,100,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/20782962/UPHO.97186767.V550/Eight-Riversuites-Balestier-Toa-Payoh-Singapore.jpg",
+      "id": "20782962",
+      "location_districtText": "Balestier / Toa Payoh",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Eight Riversuites",
+      "price_pretty": "S$ 1,920,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60011974/UPHO.155374360.V550/Eight-Riversuites-Balestier-Toa-Payoh-Singapore.jpg",
+      "id": "60011974",
+      "location_districtText": "Balestier / Toa Payoh",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Eight Riversuites",
+      "price_pretty": "S$ 2,150,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25025201/UPHO.147673664.V550/Eight-Riversuites-Balestier-Toa-Payoh-Singapore.jpg",
+      "id": "25025201",
+      "location_districtText": "Balestier / Toa Payoh",
+      "location_hdbEstateText": ""
+    }
+  ],
+  "listingsTotalCount": 3,
+  "ctaFilterLink": [
+    "https://www.propertyguru.com.sg/property-for-sale?listing_id[]=20782962&listing_id[]=60011974&listing_id[]=25025201"
+  ],
+  "listingsHistoryToStore": [
+    20782962,
+    60011974,
+    25025201
+  ],
+  "lastupdated": {
+    "$time": "2025-06-20 06:10:50"
+  },
+  "selectedPriority": "propertyId",
+  "selectedPriorityValue": "Eight Riversuites"
+}
