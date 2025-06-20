@@ -1,0 +1,66 @@
+{
+  "listingsJson": [
+    {
+      "localizedTitle": "309A Anchorvale Road",
+      "price_pretty": "S$ 660,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60012730/UPHO.155382818.V550/309A-Anchorvale-Road-Hougang-Punggol-Sengkang-Singapore.jpg",
+      "id": "60012730",
+      "location_districtText": "Hougang / Punggol / Sengkang",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "137 Rivervale Street",
+      "price_pretty": "S$ 830,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60017866/UPHO.155438175.V550/137-Rivervale-Street-Hougang-Punggol-Sengkang-Singapore.jpg",
+      "id": "60017866",
+      "location_districtText": "Hougang / Punggol / Sengkang",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "106 Rivervale Walk",
+      "price_pretty": "S$ 750,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60016991/UPHO.155439825.V550/106-Rivervale-Walk-Hougang-Punggol-Sengkang-Singapore.jpg",
+      "id": "60016991",
+      "location_districtText": "Hougang / Punggol / Sengkang",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "314B Anchorvale Link",
+      "price_pretty": "S$ 690,000",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60017170/UPHO.155432129.V550/314B-Anchorvale-Link-Hougang-Punggol-Sengkang-Singapore.jpg",
+      "id": "60017170",
+      "location_districtText": "Hougang / Punggol / Sengkang",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "418C Fernvale Link",
+      "price_pretty": "S$ 718,888",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60012118/UPHO.155375974.V550/418C-Fernvale-Link-Seletar-Yio-Chu-Kang-Singapore.jpg",
+      "id": "60012118",
+      "location_districtText": "Seletar / Yio Chu Kang",
+      "location_hdbEstateText": ""
+    }
+  ],
+  "listingsTotalCount": 10,
+  "ctaFilterLink": [
+    "https://www.propertyguru.com.sg/property-for-sale?listing_id[]=60012730&listing_id[]=60017866&listing_id[]=60016991&listing_id[]=60017170&listing_id[]=60012118&listing_id[]=60011897&listing_id[]=60014846&listing_id[]=24642912&listing_id[]=60017479&li",
+    "sting_id[]=25430387"
+  ],
+  "listingsHistoryToStore": [
+    60012730,
+    60017866,
+    60016991,
+    60017170,
+    60012118,
+    60011897,
+    60014846,
+    24642912,
+    60017479,
+    25430387
+  ],
+  "lastupdated": {
+    "$time": "2025-06-20 06:25:18"
+  },
+  "selectedPriority": "hdbEstate",
+  "selectedPriorityValue": "Sengkang"
+}
