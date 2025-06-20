@@ -1,0 +1,64 @@
+{
+  "listingsJson": [
+    {
+      "localizedTitle": "Southbank",
+      "price_pretty": "S$ 6,500 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/23198418/UPHO.124884103.V550/Southbank-Beach-Road-Bugis-Rochor-Singapore.jpg",
+      "id": "23198418",
+      "location_districtText": "Beach Road / Bugis / Rochor",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Midtown Modern",
+      "price_pretty": "S$ 5,000 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60016884/UPHO.155428310.V550/Midtown-Modern-Beach-Road-Bugis-Rochor-Singapore.jpg",
+      "id": "60016884",
+      "location_districtText": "Beach Road / Bugis / Rochor",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "Midtown Modern",
+      "price_pretty": "S$ 6,000 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60014360/UPHO.155401417.V550/Midtown-Modern-Beach-Road-Bugis-Rochor-Singapore.jpg",
+      "id": "60014360",
+      "location_districtText": "Beach Road / Bugis / Rochor",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "South Beach Residences",
+      "price_pretty": "S$ 13,900 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25131101/UPHO.148911869.V550/South-Beach-Residences-Beach-Road-Bugis-Rochor-Singapore.jpg",
+      "id": "25131101",
+      "location_districtText": "Beach Road / Bugis / Rochor",
+      "location_hdbEstateText": ""
+    },
+    {
+      "localizedTitle": "The M",
+      "price_pretty": "S$ 5,800 /mo",
+      "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25340751/UPHO.151470926.V550/The-M-Beach-Road-Bugis-Rochor-Singapore.jpg",
+      "id": "25340751",
+      "location_districtText": "Beach Road / Bugis / Rochor",
+      "location_hdbEstateText": ""
+    }
+  ],
+  "listingsTotalCount": 9,
+  "ctaFilterLink": [
+    "https://www.propertyguru.com.sg/property-for-rent?listing_id[]=23198418&listing_id[]=60016884&listing_id[]=60014360&listing_id[]=25131101&listing_id[]=25340751&listing_id[]=24916125&listing_id[]=10429008&listing_id[]=60014081&listing_id[]=24726203"
+  ],
+  "listingsHistoryToStore": [
+    23198418,
+    60016884,
+    60014360,
+    25131101,
+    25340751,
+    24916125,
+    10429008,
+    60014081,
+    24726203
+  ],
+  "lastupdated": {
+    "$time": "2025-06-20 06:42:34"
+  },
+  "selectedPriority": "districtCode",
+  "selectedPriorityValue": "Beach Road / Bugis / Rochor"
+}
