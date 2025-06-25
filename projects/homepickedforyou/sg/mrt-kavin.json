@@ -1,0 +1,68 @@
+{
+    "canvas_id": "718f5ee3-e717-414a-afb1-b8dbfae0a8ff",
+    "recipients": [
+      {
+        "external_user_id": "e67a99a3-4675-4db4-8a91-2cfff16a4d65",
+        "canvas_entry_properties": {
+          "non_saved_search_alert_homepicked":
+
+{
+"listingsJson": [
+    {
+    "localizedTitle":"Pine Grove",
+    "price_pretty":"S$ 5,200 /mo",
+    "media_cover_V550":"https://sg1-cdn.pgimgs.com/listing/24382100/UPHO.155376199.V550/Pine-Grove-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+    "id":"24382100",
+    "location_districtText":"Clementi Park / Upper Bukit Timah",
+    "location_hdbEstateText":""
+    }
+  
+    ,{
+    "localizedTitle":"Clavon",
+    "price_pretty":"S$ 6,000 /mo",
+    "media_cover_V550":"https://sg1-cdn.pgimgs.com/listing/25156316/UPHO.149932248.V550/Clavon-Buona-Vista-West-Coast-Clementi-New-Town-Singapore.jpg",
+    "id":"25156316",
+    "location_districtText":"Buona Vista / West Coast / Clementi New Town",
+    "location_hdbEstateText":""
+    }
+  
+    ,{
+    "localizedTitle":"Pine Grove",
+    "price_pretty":"S$ 5,800 /mo",
+    "media_cover_V550":"https://sg1-cdn.pgimgs.com/listing/24280307/UPHO.147302371.V550/Pine-Grove-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+    "id":"24280307",
+    "location_districtText":"Clementi Park / Upper Bukit Timah",
+    "location_hdbEstateText":""
+    }
+  
+    ,{
+    "localizedTitle":"Hundred Trees",
+    "price_pretty":"S$ 5,800 /mo",
+    "media_cover_V550":"https://sg1-cdn.pgimgs.com/listing/21309669/UPHO.113330500.V550/Hundred-Trees-Buona-Vista-West-Coast-Clementi-New-Town-Singapore.jpg",
+    "id":"21309669",
+    "location_districtText":"Buona Vista / West Coast / Clementi New Town",
+    "location_hdbEstateText":""
+    }
+  
+    ,{
+    "localizedTitle":"Pine Grove",
+    "price_pretty":"S$ 6,000 /mo",
+    "media_cover_V550":"https://sg1-cdn.pgimgs.com/listing/60022715/UPHO.155494520.V550/Pine-Grove-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+    "id":"60022715",
+    "location_districtText":"Clementi Park / Upper Bukit Timah",
+    "location_hdbEstateText":""
+    }
+  ],
+"listingsTotalCount" : 6,
+"ctaFilterLink" : ["https://www.propertyguru.com.sg/property-for-rent?listing_id[]=24382100&listing_id[]=25156316&listing_id[]=24280307&listing_id[]=21309669&listing_id[]=60022715&listing_id[]=25368685"],
+"listingsHistoryToStore": [24382100,25156316,24280307,21309669,60022715,25368685],
+"lastupdated":{"$time": "2025-06-25 06:14:02"},
+"selectedPriority":"mrtStations",
+"selectedPriorityValue":"EW23 Clementi MRT Station"
+}
+
+
+        }
+      }
+    ]
+  }
