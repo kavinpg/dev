@@ -1,0 +1,91 @@
+{
+  "canvas_id": "7b4183ca-5ef7-415e-802c-1c29902cd18e",
+  "recipients": [
+    {
+      "external_user_id": "e67a99a3-4675-4db4-8a91-2cfff16a4d65",
+      "canvas_entry_properties": {
+        "non_saved_search_alert_homepicked": {
+          "listingsJson": [
+            {
+              "localizedTitle": "Nava Grove",
+              "price_pretty": "S$ 3,218,300",
+              "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25368156/UPHO.152148777.V550/Nava-Grove-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+              "id": "25368156",
+              "location_districtText": "Clementi Park / Upper Bukit Timah",
+              "location_hdbEstateText": ""
+            },
+            {
+              "localizedTitle": "Clementi Park 3+2 So Bright!",
+              "price_pretty": "S$ 3,280,010",
+              "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25437053/UPHO.152644556.V550/Clementi-Park-3-2-So-Bright%21-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+              "id": "25437053",
+              "location_districtText": "Clementi Park / Upper Bukit Timah",
+              "location_hdbEstateText": ""
+            },
+            {
+              "localizedTitle": "Clementi Park",
+              "price_pretty": "S$ 3,580,000",
+              "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/24726157/UPHO.152651160.V550/Clementi-Park-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+              "id": "24726157",
+              "location_districtText": "Clementi Park / Upper Bukit Timah",
+              "location_hdbEstateText": ""
+            },
+            {
+              "localizedTitle": "Nava Grove",
+              "price_pretty": "S$ 3,243,000",
+              "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/60030827/UPHO.155582382.V550/Nava-Grove-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+              "id": "60030827",
+              "location_districtText": "Clementi Park / Upper Bukit Timah",
+              "location_hdbEstateText": ""
+            },
+            {
+              "localizedTitle": "Forett at Bukit Timah",
+              "price_pretty": "S$ 3,300,000",
+              "media_cover_V550": "https://sg1-cdn.pgimgs.com/listing/25308906/UPHO.151085153.V550/Forett-at-Bukit-Timah-Clementi-Park-Upper-Bukit-Timah-Singapore.jpg",
+              "id": "25308906",
+              "location_districtText": "Clementi Park / Upper Bukit Timah",
+              "location_hdbEstateText": ""
+            }
+          ],
+          "listingsTotalCount": 20,
+          "ctaFilterLink": [
+            "https://www.propertyguru.com.sg/property-for-sale?listing_id[]=25368156&listing_id[]=25437053&listing_id[]=24726157&listing_id[]=60030827&listing_id[]=25308906&listing_id[]=25432402&listing_id[]=25411660&listing_id[]=25431241&listing_id[]=25095965&li",
+            "sting_id[]=25456220&listing_id[]=60025153&listing_id[]=24958430&listing_id[]=60032227&listing_id[]=60030518&listing_id[]=60032086&listing_id[]=25396768&listing_id[]=60031960&listing_id[]=25435281&listing_id[]=60030463&listing_id[]=25335424"
+          ],
+          "listingsHistoryToStore": [
+            25368156,
+            25437053,
+            24726157,
+            60030827,
+            25308906,
+            25432402,
+            25411660,
+            25431241,
+            25095965,
+            25456220,
+            60025153,
+            24958430,
+            60032227,
+            60030518,
+            60032086,
+            25396768,
+            60031960,
+            25435281,
+            60030463,
+            25335424
+          ],
+          "lastupdated": {
+            "$time": "2025-07-01 08:01:59"
+          },
+          "selectedPriority": "districtCode",
+          "selectedPriorityValue": "Clementi Park / Upper Bukit Timah",
+          "pref_tx": "sale",
+          "propName": "Hillcrest Arcadia",
+          "distName": "Clementi Park / Upper Bukit Timah",
+          "hdbName": "Bukit Timah",
+          "convertedPriceMax": "4000000"
+        }
+      }
+    }
+  ]
+}
