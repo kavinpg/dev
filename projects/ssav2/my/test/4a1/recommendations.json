@@ -1,0 +1,108 @@
+{
+          "alert_list_1": {
+            "recsys_response": {
+              "20250416130631700": {
+                "list_1": {
+                  "id": "500057748",
+                  "localizedTitle": "Puchong Utama Court 1",
+                  "typeCode": "FLAT",
+                  "price_pretty": "RM 240,000",
+                  "size_bedrooms_value": "3",
+                  "size_bathrooms_value": "2",
+                  "location_districtText": "Puchong",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/500057748/UPHO.274057768.V550/Puchong-Utama-Court-1-Puchong-Malaysia.jpg"
+                },
+                "list_2": {
+                  "id": "35427705",
+                  "localizedTitle": "Pandan Indah Flat (Rumah Pangsa 610)",
+                  "typeCode": "FLAT",
+                  "price_pretty": "RM 98,000",
+                  "size_bedrooms_value": "2",
+                  "size_bathrooms_value": "1",
+                  "location_districtText": "Ampang",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/35427705/UPHO.188197421.V550/Pandan-Indah-Flat-Rumah-Pangsa-610-Ampang-Malaysia.jpg"
+                },
+                "list_3": {
+                  "id": "41338161",
+                  "localizedTitle": "Taman Terubong Jaya",
+                  "typeCode": "FLAT",
+                  "price_pretty": "RM 230,000",
+                  "size_bedrooms_value": "3",
+                  "size_bathrooms_value": "2",
+                  "location_districtText": "Ayer Itam",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/41338161/UPHO.245955353.V550/Taman-Terubong-Jaya-Ayer-Itam-Malaysia.jpg"
+                },
+                "list_4": {
+                  "id": "35309506",
+                  "localizedTitle": "Pandan Indah Flat (Rumah Pangsa 610)",
+                  "typeCode": "FLAT",
+                  "price_pretty": "RM 105,000",
+                  "size_bedrooms_value": "2",
+                  "size_bathrooms_value": "1",
+                  "location_districtText": "Ampang",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/35309506/UPHO.187060635.V550/Pandan-Indah-Flat-Rumah-Pangsa-610-Ampang-Malaysia.jpg"
+                }
+              },
+              "20250416095953627": {
+                "list_1": {
+                  "id": "500058857",
+                  "localizedTitle": "EMBER @ Eco Ardence",
+                  "typeCode": "SEMI",
+                  "price_pretty": "RM 7,800 /mo",
+                  "size_bedrooms_value": "5",
+                  "size_bathrooms_value": "5",
+                  "location_districtText": "Setia Alam",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/500058857/UPHO.274081905.V550/EMBER-Eco-Ardence-Setia-Alam-Malaysia.jpg"
+                },
+                "list_2": {
+                  "id": "500059106",
+                  "localizedTitle": "Ferringhi Heights",
+                  "typeCode": "SEMI",
+                  "price_pretty": "RM 5,800 /mo",
+                  "size_bedrooms_value": "5",
+                  "size_bathrooms_value": "6",
+                  "location_districtText": "Batu Feringghi",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/500059106/UPHO.274083353.V550/Ferringhi-Heights-Batu-Feringghi-Malaysia.jpg"
+                },
+                "list_3": {
+                  "id": "60391410",
+                  "localizedTitle": "Caranday Park",
+                  "typeCode": "CLUS",
+                  "price_pretty": "RM 3,000 /mo",
+                  "size_bedrooms_value": "4",
+                  "size_bathrooms_value": "4",
+                  "location_districtText": "Tebrau",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/60391410/UPHO.274078841.V550/Caranday-Park-Tebrau-Malaysia.jpg"
+                },
+                "list_4": {
+                  "id": "42825213",
+                  "localizedTitle": "ECO SANCTUARY",
+                  "typeCode": "SEMI",
+                  "price_pretty": "RM 4,300 /mo",
+                  "size_bedrooms_value": "4",
+                  "size_bathrooms_value": "5",
+                  "location_districtText": "Telok Panglima Garang",
+                  "media_cover_V550": "https://my1-cdn.pgimgs.com/listing/42825213/UPHO.271642900.V550/ECO-SANCTUARY-Telok-Panglima-Garang-Malaysia.jpg"
+                }
+              }
+            },
+            "total_count": {
+              "20250416130631700": 20,
+              "20250416095953627": 11
+            },
+            "urls": {
+              "20250416130654136": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&propertyTypeGroup=N&propertyTypeCode[]=STDIO&propertyTypeCode[]=TOWNC&unitFeatures[]=BAL",
+              "20250416130631700": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=N&propertyTypeCode[]=DUPLX&propertyTypeCode[]=FLAT&baths[]=1&baths[]=2&baths[]=4&baths[]=5&baths[]=6",
+              "20250416130557143": "https://www.propertyguru.com.my/property-for-sale?market=residential&listing_type=sale&propertyTypeGroup=B&propertyTypeCode[]=BUNG&propertyTypeCode[]=LBUNG&propertyTypeCode[]=TWINC&propertyTypeCode[]=TWINV&propertyTypeCode[]=ZBUNG&beds[]=0&beds[]=1&minsize=100&maxsize=100000&baths[]=1&baths[]=2",
+              "20250416100211506": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&lease_term[]=1YR&lease_term[]=2YR&lease_term[]=3YR&lease_term[]=FL&lease_term[]=ST&unitFeatures[]=AIRC&unitFeatures[]=BAL&unitFeatures[]=BATH&unitFeatures[]=CORN&unitFeatures[]=MAID&unitFeatures[]=PPOOL&unitFeatures[]=RENO&unitFeatures[]=TERR",
+              "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?market=residential&listing_type=rent&propertyTypeGroup=S&propertyTypeCode[]=CLUS&propertyTypeCode[]=SEMI&baths[]=1&baths[]=2&baths[]=3&baths[]=4&baths[]=5&baths[]=6"
+            },
+            "recsys_urls": {
+              "20250416130631700": "https://www.propertyguru.com.my/property-for-sale?listing_id[]=500057748&listing_id[]=35427705&listing_id[]=41338161&listing_id[]=35309506&listing_id[]=500058784&listing_id[]=500058946&listing_id[]=500057948&listing_id[]=35309522&listing_id[]=42718072&listing_id[]=500058835&listing_id[]=500059502&listing_id[]=60390889&listing_id[]=38710438&listing_id[]=42975323&listing_id[]=500058633&listing_id[]=41686160&listing_id[]=500057689&listing_id[]=500057878&listing_id[]=500059026&listing_id[]=500059109",
+              "20250416095953627": "https://www.propertyguru.com.my/property-for-rent?listing_id[]=500058857&listing_id[]=500059106&listing_id[]=60391410&listing_id[]=42825213&listing_id[]=500058796&listing_id[]=60391400&listing_id[]=500059338&listing_id[]=500059356&listing_id[]=42521099&listing_id[]=60391572&listing_id[]=60391481"
+            },
+            "lastupdated": {
+              "$time": "2025-08-25 09:47:38"
+            }
+          }
+        }
